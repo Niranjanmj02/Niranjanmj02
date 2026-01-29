@@ -27,7 +27,7 @@ I don't just write code; I build **systems**. My expertise lies at the intersect
 
 * 🔭 **Currently working on:** Enterprise-grade **MES (Manufacturing Execution Systems)** and Real-time **Voice AI Agents**.
 * 🔬 **Research:** Published author at **IEEE ASIANCON 2024** (DeepWeed CNN Model).
-* 📸 **Offline:** I run a photography business, bringing a creative "product eye" to engineering problems.
+* 🏗️ **Architecture:** I specialize in orchestrating complex **Multi-Agent Systems** and designing event-driven architectures that scale.
 * ⚡ **Superpower:** Merging **Logic** (Node.js/Python) with **Perception** (Computer Vision/MediaPipe).
 
 ---
