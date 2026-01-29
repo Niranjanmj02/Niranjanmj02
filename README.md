@@ -6,13 +6,13 @@
 
   ### 🚀 Architecting Intelligent Systems & Digital Experiences
 
-  <a href="https://www.linkedin.com/in/niranjan-m-1ba74b258/">
+  <a href="https://www.linkedin.com/in/niranjan-m-1ba74b258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:niranjanmj02@gmail.com">
+  <a href="mailto:niranjanmj02@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://niranjan-m.vercel.app/">
+  <a href="https://niranjan-m.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
